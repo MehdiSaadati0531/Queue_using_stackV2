@@ -1,0 +1,14 @@
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\bin\Debug\net6.0\Queue_using_stack.exe
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\bin\Debug\net6.0\Queue_using_stack.deps.json
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\bin\Debug\net6.0\Queue_using_stack.runtimeconfig.json
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\bin\Debug\net6.0\Queue_using_stack.dll
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\bin\Debug\net6.0\ref\Queue_using_stack.dll
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\bin\Debug\net6.0\Queue_using_stack.pdb
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\Queue_using_stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\Queue_using_stack.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\Queue_using_stack.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\Queue_using_stack.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\Queue_using_stack.dll
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\ref\Queue_using_stack.dll
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\Queue_using_stack.pdb
+C:\Users\Mahdi\source\repos\Queue_using_stack\Queue_using_stack\obj\Debug\net6.0\Queue_using_stack.genruntimeconfig.cache
